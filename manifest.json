@@ -1,0 +1,16 @@
+{
+	"name": "DeadlyQuiet",
+	"namespace": "ZackeryRSmith",
+	"version_number": "1.0.0",
+	"description": "The monster no longer plays any audio queues",
+	"website_url": "https://github.com/DeadseatModding/HalfDeaf",
+	"dependencies": ["ZackeryRSmith-CustomChallenges"],
+	"extra": {
+		"godot": {
+			"authors": ["ZackeryRSmith"],
+			"description_rich": "",
+			"compatible_mod_loader_version": ["7.0.1"],
+			"compatible_game_version": ["0.0.0"]
+		}
+	}
+}
